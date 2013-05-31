@@ -46,7 +46,7 @@ public class MovieResource {
 
   @POST
   @Path("/{id}")
-  public Movie createMovie(@PathParam("id") Integer id, Movie movie) {
+  public Movie updateMovie(@PathParam("id") Integer id, Movie movie) {
     return movie;
   }
 }
