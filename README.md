@@ -1,6 +1,6 @@
 Example API to test masterdoc ...
 
-Just mvn clean package jetty:start to start the API
+Just <pre>mvn clean package jetty:start</pre> to start the API
 
 ```
 GET /movie
