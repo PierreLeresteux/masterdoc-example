@@ -18,8 +18,8 @@
     </listener>
 
     <context-param>
-        <param-name>packageDocumentation</param-name>
-        <param-value>fr.pierre.api</param-value>
+        <param-name>packageDocumentationResource</param-name>
+        <param-value>fr.pierre.api.resource</param-value>
     </context-param>
     <listener>
         <listener-class>
